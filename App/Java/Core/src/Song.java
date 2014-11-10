@@ -1,4 +1,4 @@
-import com.sun.javafx.collections.MappingChange.Map;
+import java.util.Map;
 
 public class Song {
 	String id;
